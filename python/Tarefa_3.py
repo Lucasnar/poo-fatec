@@ -9,7 +9,7 @@ lista_de_numerais = "zero um dois tres quatro cinco seis sete oito nove".split("
 def retorna_numerais(numero_inteiro):
     """ A partir de um inteiro dado como argumento, essa
     funcao retornara o numeral (string) respectivo a ele, i.e.,
-    a palavra em portugues que representa aquele inteiro.
+    a palavra em portuguese que representa aquele inteiro.
     No caso de mais de um numero, retornara todos separados
     por virgula e espaco.
     Respeita a condicao do enunciado: usa lista.
